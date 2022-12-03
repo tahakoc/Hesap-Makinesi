@@ -1,4 +1,5 @@
 
 
 # **project Demo:**
-[hesapmakinasesi-231341.netlify.appg]
+
+https://hesapmakinasesi-231341.netlify.app
